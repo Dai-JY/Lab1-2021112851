@@ -25,12 +25,12 @@ public class Main {
         String result = queryBridgeWords("explore", "new");
         System.out.println(result);
 
-//        System.out.println("----------" + "generateNewText" + "----------");
-//        Scanner scanner = new Scanner(System.in);
-//        System.out.print("Input text: ");
-//        String inputText = scanner.nextLine();
-//        String outputText = generateNewText(inputText);
-//        System.out.println("Generated text: " + outputText);
+        System.out.println("----------" + "generateNewText" + "----------");
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Input text: ");
+        String inputText = scanner.nextLine();
+        String outputText = generateNewText(inputText);
+        System.out.println("Generated text: " + outputText);
 
         System.out.println("----------" + "calcShortestPath" + "----------");
         String path = calcShortestPath("to", "and");

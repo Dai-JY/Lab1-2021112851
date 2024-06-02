@@ -1,1 +1,9 @@
-Seek to explore new and exciting synergies This is b2
+<<<<<<< HEAD
+Seek to explore new and exciting synergies this is 2021
+=======
+<<<<<<< HEAD
+Seek to explore new and exciting synergies this is 2021
+=======
+Seek to explore new and exciting synergies this is 2021
+>>>>>>> C4
+>>>>>>> B1

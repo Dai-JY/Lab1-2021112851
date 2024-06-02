@@ -1,1 +1,9 @@
-out new civilizations this is B2
+<<<<<<< HEAD
+out new civilizations this is 2021
+=======
+<<<<<<< HEAD
+out new civilizations this is 2021
+=======
+out new civilizations this is 2021
+>>>>>>> C4
+>>>>>>> B1
