@@ -21,23 +21,23 @@ public class Main {
         System.out.println("----------" + "printGraph" + "----------");
         printGraph();
 
-//        System.out.println("----------" + "queryBridgeWords" + "----------");
-//        String result = queryBridgeWords("explore", "new");
-//        System.out.println(result);
+        System.out.println("----------" + "queryBridgeWords" + "----------");
+        String result = queryBridgeWords("explore", "new");
+        System.out.println(result);
 
-//        System.out.println("----------" + "generateNewText" + "----------");
-//        Scanner scanner = new Scanner(System.in);
-//        System.out.print("Input text: ");
-//        String inputText = scanner.nextLine();
-//        String outputText = generateNewText(inputText);
-//        System.out.println("Generated text: " + outputText);
+        System.out.println("----------" + "generateNewText" + "----------");
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Input text: ");
+        String inputText = scanner.nextLine();
+        String outputText = generateNewText(inputText);
+        System.out.println("Generated text: " + outputText);
 
-//        System.out.println("----------" + "calcShortestPath" + "----------");
-//        String path = calcShortestPath("to", "and");
-//        System.out.println(path);
+        System.out.println("----------" + "calcShortestPath" + "----------");
+        String path = calcShortestPath("to", "and");
+        System.out.println(path);
 
-//        System.out.println("----------" + "printDijkstra" + "----------");
-//        printDijkstra("new");
+        System.out.println("----------" + "printDijkstra" + "----------");
+        printDijkstra("new");
 
         System.out.println("----------" + "randomWalk" + "----------");
         String walk = randomWalk();
