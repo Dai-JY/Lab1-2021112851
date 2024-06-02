@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 out new civilizations 12324356
+=======
+out new civilizations 12324356
+>>>>>>> C4

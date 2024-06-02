@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Seek to explore new and exciting synergies 234235363
+=======
+Seek to explore new and exciting synergies 234235363
+>>>>>>> C4
