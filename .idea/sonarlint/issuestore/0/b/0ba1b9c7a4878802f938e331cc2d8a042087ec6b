@@ -1,0 +1,30 @@
+
+•	java:S135Ø"YReduce the total number of break and continue statements in this loop to use at most one.(Ò®­ÑJ$668101ef-9198-4761-9fe5-807d3c9f1dcb
+š	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿJ$84364de9-8954-41e3-9185-a55f4ccdac1a
+s
+java:S18549"8Remove this useless assignment to local variable "walk".(üˆŒ6J$021ec217-5247-4351-83f2-58eb9ddc8657
+f	java:S106"+Replace this use of System.out by a logger.(÷ä¥ÜJ$2936996a-e241-4573-93ce-cf910834fbad
+f	java:S106#"+Replace this use of System.out by a logger.(ı†ş‡J$6b8a1ae4-a2a8-42b1-a7ca-3a8cd3a548e1
+f	java:S106&"+Replace this use of System.out by a logger.(Äâ¾ãJ$be1157be-dff0-47c5-a2ec-979957fbd3eb
+k	java:S106("+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿJ$cfceaee8-cf53-458f-8db3-8ec3633847a5
+e	java:S1061"+Replace this use of System.out by a logger.(Ã†¶0J$78f19b32-cd7a-4174-860f-3119cc2fc1c0
+|	java:S125*"<This block of commented-out lines of code should be removed.(çÖˆÊúÿÿÿÿJ$e4b83d02-8b93-4fba-8195-5b7afd622c78
+f	java:S1063"+Replace this use of System.out by a logger.(ÍÎÉ J$9e438ed4-7c2c-43e1-b66d-61200817bdf6
+k	java:S1065"+Replace this use of System.out by a logger.(ã›òÅÿÿÿÿÿJ$c810ff13-9ab1-4b50-a994-051548053cc7
+k	java:S1068"+Replace this use of System.out by a logger.(ìŠş¨şÿÿÿÿJ$776f7bf3-1b5d-4a90-a049-0d9bc284889a
+d
+java:S14819")Remove this unused "walk" local variable.(üˆŒ6J$76e9197e-eec2-40fc-aecf-13ebeaa63e4b
+f	java:S106`"+Replace this use of System.err by a logger.(“Æ¸±J$21b00ec7-59bb-4230-aad0-0b187582cc59
+u
+java:S2864e"4Iterate over the "entrySet" instead of the "keySet".(¶Î¸ÎúÿÿÿÿJ$5b3f26e1-db63-46bf-b7d6-577aafc0ec4f
+k	java:S106f"+Replace this use of System.out by a logger.(æ«Û¾şÿÿÿÿJ$0b91e8e0-f83f-43ac-966f-c078a6e37184
+k	java:S106i"+Replace this use of System.out by a logger.(®³š€úÿÿÿÿJ$43181f2a-fc5a-41b4-97e6-5d8aada60e31
+k	java:S106k"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿJ$cafdf9d0-77b3-4dc5-b1de-048d86c47934
+Š	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÇ‰ËJ$08d662eb-f8d8-4d3f-b2b4-1aae99062707
+
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ŞÇ‰ËJ$a2a5bff5-c3f8-4689-abef-c9088ae20514
+l	java:S106€"+Replace this use of System.out by a logger.(š½ŒªÿÿÿÿÿJ$f5a8ec5e-211b-4f23-99ea-c2db9dcac313
+l	java:S106"+Replace this use of System.out by a logger.(¸±äšûÿÿÿÿJ$97eb4fa2-fc8c-4e28-8122-cc10bc2c823d
+g	java:S106‚"+Replace this use of System.out by a logger.(æŒ˜”J$d23c606b-ab88-41d6-8e48-95eb4e7caf5a
+g	java:S106¡"+Replace this use of System.out by a logger.(ô±ÜÊJ$d9dd6892-3704-4bbe-b05a-817a666988c1
+g	java:S106¢"+Replace this use of System.out by a logger.(¡ª§ˆJ$b73c4b0d-d4aa-4635-b4d1-955c4e435fe2
